@@ -1,11 +1,11 @@
 
-BOT_TOKEN = ''      # Токен бота
+BOT_TOKEN = '5666340425:AAGo9Ac5fMWLpASAtTOh1kBAyt1kv6CnkRc'      # Токен бота
 
 CODE_ACCESS = 'TEST'    # код по которому можно будет давать доступ в итоге код получится TESTГОД-МЕСЯЦ-ЧИСЛО (TEST2020-01-01)
 
-BOT_LOGIN = ''          # login бота, например: telegram_bot
+BOT_LOGIN = 'nvestingfoundation_vvp_bot'          # login бота, например: telegram_bot
 
-ADMIN_ID = 0       # id админа
+ADMIN_ID = 1071041402       # id админа
 
 QIWI_NUMBER = '+77777777777'    # номер киви
 QIWI_TOKEN = ''     # токен киви
