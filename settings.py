@@ -1,17 +1,17 @@
 
 BOT_TOKEN = '5690720084:AAHdwQYoHBncTgAsNV5nZId_vpAjtr1sllQ'      # Токен бота
 
-CODE_ACCESS = 'PROMO'    # код по которому можно будет давать доступ в итоге код получится TESTГОД-МЕСЯЦ-ЧИСЛО (TEST2020-01-01)
+CODE_ACCESS = 'CROW'    # код по которому можно будет давать доступ в итоге код получится TESTГОД-МЕСЯЦ-ЧИСЛО (TEST2020-01-01)
 
-BOT_LOGIN = 'investingfoundation_vvp_bot'          # login бота, например: telegram_bot
+BOT_LOGIN = 'crowdinvesting_bot'          # login бота, например: telegram_bot
 
 ADMIN_ID = 5630297679       # id админа
 
 QIWI_NUMBER = '+77777777777'    # номер киви
 QIWI_TOKEN = ''     # токен киви
 
-ACCESS_COST = 200           # стоимость доступа
-MIN_PAYOUT = 500           # минимальная сумма для запроса на вывод денег
+ACCESS_COST = 250           # стоимость доступа
+MIN_PAYOUT = 1500           # минимальная сумма для запроса на вывод денег
 
 PERCENT_ADMIN = 0.25        # сколько процентов от стоимости доступа пойдёт вам(0.25 от 200 рублей это 50 руб)
 PERCENT_1 = 0.375           # сколько пойдёт пригл. пользователя (0.375 от 200 руб это 75 руб)
