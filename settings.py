@@ -1,7 +1,7 @@
 
 BOT_TOKEN = '5666340425:AAGo9Ac5fMWLpASAtTOh1kBAyt1kv6CnkRc'      # Токен бота
 
-CODE_ACCESS = 'TEST'    # код по которому можно будет давать доступ в итоге код получится TESTГОД-МЕСЯЦ-ЧИСЛО (TEST2020-01-01)
+CODE_ACCESS = 'PROMO'    # код по которому можно будет давать доступ в итоге код получится TESTГОД-МЕСЯЦ-ЧИСЛО (TEST2020-01-01)
 
 BOT_LOGIN = 'nvestingfoundation_vvp_bot'          # login бота, например: telegram_bot
 
