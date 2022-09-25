@@ -5,7 +5,7 @@ CODE_ACCESS = 'PROMO'    # код по которому можно будет д
 
 BOT_LOGIN = 'nvestingfoundation_vvp_bot'          # login бота, например: telegram_bot
 
-ADMIN_ID = 1071041402       # id админа
+ADMIN_ID = 394408670       # id админа
 
 QIWI_NUMBER = '+77777777777'    # номер киви
 QIWI_TOKEN = ''     # токен киви
