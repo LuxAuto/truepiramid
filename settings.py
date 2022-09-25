@@ -1,5 +1,5 @@
 
-BOT_TOKEN = '5666340425:AAGo9Ac5fMWLpASAtTOh1kBAyt1kv6CnkRc'      # Токен бота
+BOT_TOKEN = '5690720084:AAHdwQYoHBncTgAsNV5nZId_vpAjtr1sllQ'      # Токен бота
 
 CODE_ACCESS = 'PROMO'    # код по которому можно будет давать доступ в итоге код получится TESTГОД-МЕСЯЦ-ЧИСЛО (TEST2020-01-01)
 
