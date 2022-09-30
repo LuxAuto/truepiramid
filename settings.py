@@ -7,8 +7,8 @@ BOT_LOGIN = 'crowdinvesting_bot'          # login бота, например: te
 
 ADMIN_ID = 5630297679       # id админа
 
-QIWI_NUMBER = '+79892018792'    # номер киви
-QIWI_TOKEN = '12920450b9172fb1a1e319c566981003'     # токен киви
+QIWI_NUMBER = '+79778175980'    # номер киви
+QIWI_TOKEN = '9f4dd1cbaf61b2db332a2670545bc49e'     # токен киви
 
 ACCESS_COST = 250           # стоимость доступа
 MIN_PAYOUT = 1550           # минимальная сумма для запроса на вывод денег
